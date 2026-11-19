@@ -1,0 +1,4 @@
+:root { font-family: Inter, system-ui, sans-serif; color: #e6edf7; background: #101722; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+.welcome { padding: 80px; }
